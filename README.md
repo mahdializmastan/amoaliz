@@ -1,11 +1,45 @@
-# 💫 About Me: <h2>👋 Hi ! I'm mahdi alizadeh </h2>
-<div style="display:flex; gap:5px; flex-wrap:wrap;"><p>🔭 I’m currently working on ai chat bot <br>🌱 I’m currently learning python and AI <br></div>
+<h1 align="center">Hi 👋 I'm Mahdi</h1>
+<h3 align="center">Python Developer | Security Learner | Git Enthusiast</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alipalvane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alipalvane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alipalvane) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/alipalvane) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alipalvane) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript]!
-[Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)
-![Linux](https://img.shields.io/badge/Linux-User-black?logo=linux)
-![Git](https://img.shields.io/badge/Git-Active-orange?logo=git)
+## 🚀 About Me
+- 💻 Passionate about Python Development  
+- 🔐 Currently learning Cyber Security & Ethical Hacking  
+- 🧠 Interested in Automation & System Programming  
+- 📚 Always improving my skills  
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Professional-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Active-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learner-FCC624?logo=linux&logoColor=black)
+![CyberSecurity](https://img.shields.io/badge/CyberSecurity-Student-darkred?logo=hackthebox&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
+- Python Automation Scripts  
+- Security Tools Development  
+- Linux Environment Mastery  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+
