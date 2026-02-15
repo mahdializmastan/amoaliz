@@ -1,45 +1,61 @@
-<h1 align="center">Hi 👋 I'm Mahdi</h1>
-<h3 align="center">Python Developer | Security Learner | Git Enthusiast</h3>
+<h1 align="center">Mahdi Alizmastan</h1>
+<h3 align="center">Python Developer | Security Learner | Automation Builder</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about Python Development  
-- 🔐 Currently learning Cyber Security & Ethical Hacking  
-- 🧠 Interested in Automation & System Programming  
-- 📚 Always improving my skills  
+## 👨‍💻 About Me
+
+- 💻 Python Developer with focus on clean and practical code  
+- 🔐 Cyber Security Student (Ethical & Defensive Security)  
+- ⚙ Interested in Automation & System Level Projects  
+- 🐧 Linux Environment Enthusiast  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Professional-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Active-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learner-FCC624?logo=linux&logoColor=black)
-![CyberSecurity](https://img.shields.io/badge/CyberSecurity-Student-darkred?logo=hackthebox&logoColor=white)
+<p align="center">
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
 
-## 📊 GitHub Stats
-
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+</p>
 
 ---
 
-## 📈 Most Used Languages
+## 📊 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Current Focus
-- Python Automation Scripts  
-- Security Tools Development  
-- Linux Environment Mastery  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdializmastan&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdializmastan&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
+## 🎯 Current Focus
+
+- 🐍 Advanced Python Development  
+- 🔐 Security Research & Labs  
+- ⚙ Automation Tools  
+- 🧠 Continuous Skill Improvement  
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdializmastan&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Philosophy
+
+> Clean Code. Smart Security. Continuous Growth.
 
