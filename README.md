@@ -21,23 +21,38 @@
 ## 🛠 I have some skills.
 
 <p align="center"> 
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/></a> 
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/>
+  </a> 
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/></a> 
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/>
+  </a> 
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/></a> 
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/>
+  </a> 
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65"/></a> 
+  <a href="https://www.linux.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65"/>
+  </a> 
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.kali.org/"><img src="https://hexmos.com/freedevtools/svg_icons/kalilinux/kalilinux-original.svg" width="65"/></a>
+  <a href="https://www.kali.org/">
+    <img src="https://hexmos.com/freedevtools/svg_icons/kalilinux/kalilinux-original.svg" width="65"/>
+  </a>
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="65"/></a> 
+  <a href="https://ubuntu.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="65"/>
+  </a> 
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="65"/></a> 
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="65"/>
+  </a> 
   &nbsp;&nbsp;&nbsp; 
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65"/>
+  </a> 
 </p>
-
-
 
 ---
 
